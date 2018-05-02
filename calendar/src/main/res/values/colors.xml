@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="selected_day_background">#0000FF</color>
+    <color name="selected_day_text">#FFFFFF</color>
+
+    <color name="years_text">#8f8f8f</color>
+    <color name="week_day">#4e4e4e</color>
+    <color name="to_day">#0000FF</color>
+    <color name="normal_day">#191919</color>
+    <color name="bottom_normal_day">#131313</color>
+    <color name="formerly_day">#cccccc</color>
+</resources>
