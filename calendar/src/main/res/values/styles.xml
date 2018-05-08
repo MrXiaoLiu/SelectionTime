@@ -3,9 +3,6 @@
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
-        <item name="colorPrimary">@color/colorPrimary</item>
-        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
-        <item name="colorAccent">@color/colorAccent</item>
     </style>
 
 
@@ -72,5 +69,25 @@
     </declare-styleable>
 
 
+    <color name="selected_day_background">#0000FF</color>
+    <color name="years_text">#8f8f8f</color>
+    <color name="week_day">#4e4e4e</color>
+    <color name="to_day">#0000FF</color>
+    <color name="normal_day">#191919</color>
+    <color name="bottom_normal_day">#131313</color>
+    <color name="formerly_day">#cccccc</color>
+
+    <!-- 日历定义的一些尺寸 -->
+    <dimen name="text_size_day">15sp</dimen>
+    <dimen name="text_size_tag">12sp</dimen>
+    <dimen name="text_size_month">15sp</dimen>
+    <dimen name="text_size_day_name">14sp</dimen>
+    <dimen name="header_month_height">55dip</dimen>
+    <dimen name="selected_day_radius">16dip</dimen>
+    <dimen name="calendar_height">320dip</dimen>
+
+    <string name="app_name">Calendar</string>
+    <!--translatable不用翻译成其它语种的语言了-->
+    <string name="sans_serif" translatable="false">sans-serif</string>
 
 </resources>
