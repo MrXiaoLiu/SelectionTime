@@ -3,7 +3,7 @@
 `SelectionTime `是用于Android设备上选择日期开源库，高度订制，打造适合自己的日期控件
 ## 效果图（多选、范围选、单选）
 
-![multi logo](https://github.com/MrXiaoLiu/SelectionTime/blob/master/images/multi.gif)
+!(https://github.com/MrXiaoLiu/SelectionTime/blob/master/images/multi.gif)
 ![MacDown logo](https://github.com/MrXiaoLiu/SelectionTime/blob/master/images/range.gif)
 ![MacDown logo](https://github.com/MrXiaoLiu/SelectionTime/blob/master/images/range.gif)
 ## 安装说明
